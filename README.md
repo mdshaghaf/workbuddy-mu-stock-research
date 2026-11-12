@@ -142,9 +142,11 @@ To reproduce this workflow:
 
 The exact Futu MCP configuration and authenticated live-data workflow remain to be documented.
 
-## 8. Project Screenshots
+## 8. Project Report
 
-Screenshots of the original WorkBuddy conversation and generated research report can be included here.
+The complete 16-page Micron Technology (MU) stock research report is available below.
+
+[View MU Stock Research Report (PDF)](Micron_Stock_Research_Report.pdf)
 
 ## Disclaimer
 
