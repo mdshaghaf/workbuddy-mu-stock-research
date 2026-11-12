@@ -144,9 +144,9 @@ The exact Futu MCP configuration and authenticated live-data workflow remain to 
 
 ## 8. Project Report
 
-The complete 16-page Micron Technology (MU) stock research report is available below.
+The complete Micron Technology (MU) stock research report is available below.
 
-[View MU Stock Research Report (PDF)](Micron_Stock_Research_Report.pdf)
+[📄 View MU Stock Research Report (PDF)](./MU_Stock_Research_Report.pdf)
 
 ## Disclaimer
 
